@@ -34,7 +34,7 @@
 * 1번
 * 2번
 
-[go naver](http"//www.naver.com)
+[My Blog](https://blog.naver.com/wldudb8470)
 
 ```
 print("pyton code")
