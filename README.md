@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjiyeong)](https://github.com/bjiyeong/github-readme-stats)
-
-
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=bjiyeong)](https://github.com/bjiyeong)
 
@@ -22,19 +19,5 @@
 
 
 ### Hi there 👋
-
----
-**안녕**<br>
-~~what~~
-
-* 1번
-* 2번
-
 [My Blog](https://blog.naver.com/wldudb8470)
 
-```
-print("pyton code")
-```
-
-:joy:
-:smile:
