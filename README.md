@@ -2,7 +2,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=bjiyeong)](https://github.com/bjiyeong)
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=bjiyeong&show_icons=true&theme=radical)](https://github.com/bjiyeong)
+
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
